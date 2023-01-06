@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 
 try:
-    link = " http://suninjuly.github.io/registration1.html"
+    link = " http://suninjuly.github.io/registration2.html"
     first_name = 'alex'
     last_name = 'ivanov'
     email = 'skdhlef@corfho.ru'
